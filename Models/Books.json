@@ -1,0 +1,92 @@
+[
+    {
+      "id": "1",
+      "book": "El Alquimista",
+      "author": "Paulo Coelho",
+      "gender": "Novela",
+      "publishDate": 1988,
+      "description": "Un joven pastor emprende un viaje en busca de su tesoro personal.",
+      "urlImage": "https://hispamer.com.ni/wp-content/uploads/2023/01/9786073158602.jpg"
+    },
+    {
+      "id": "2",
+      "book": "Cien años de soledad",
+      "author": "Gabriel García Márquez",
+      "gender": "Realismo mágico",
+      "publishDate": 1967,
+      "description": "La saga de la familia Buendía en el pueblo de Macondo.",
+      "urlImage": "https://hispamer.com.ni/wp-content/uploads/2023/01/9786070728792.jpg"
+    },
+    {
+      "id": "3",
+      "book": "1984",
+      "author": "George Orwell",
+      "gender": "Distopía",
+      "publishDate": 1949,
+      "description": "Una sociedad totalitaria donde el Gran Hermano todo lo vigila.",
+      "urlImage": "https://m.media-amazon.com/images/I/71kxa1-0mfL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": "4",
+      "book": "Harry Potter y la piedra filosofal",
+      "author": "J.K. Rowling",
+      "gender": "Fantasía",
+      "publishDate": 1997,
+      "description": "Las aventuras del joven mago Harry Potter en Hogwarts.",
+      "urlImage": "https://contentv2.tap-commerce.com/cover/large/9789878000107_1.jpg?id_com=1113"
+    },
+    {
+      "id": "5",
+      "book": "Orgullo y prejuicio",
+      "author": "Jane Austen",
+      "gender": "Romance clásico",
+      "publishDate": 1813,
+      "description": "Las relaciones entre Elizabeth Bennet y el señor Darcy.",
+      "urlImage": "https://global-uploads.webflow.com/6034d7d1f3e0f52c50b2adee/625452ebb0e15e764981b44c_6034d7d1f3e0f55fcab2b2de_Orgullo-y-prejuicio-jane-austen-editorial-alma.jpeg"
+    },
+    {
+      "id": "6",
+      "book": "El señor de los anillos: La comunidad del anillo",
+      "author": "J.R.R. Tolkien",
+      "gender": "Fantasía épica",
+      "publishDate": 1954,
+      "description": "Frodo emprende un viaje para destruir un anillo maligno.",
+      "urlImage": "https://images-eu.ssl-images-amazon.com/images/I/816QLZKwmIL._AC_UL600_SR600,600_.jpg"
+    },
+    {
+      "id": "7",
+      "book": "Matar a un ruiseñor",
+      "author": "Harper Lee",
+      "gender": "Drama",
+      "publishDate": 1960,
+      "description": "Un niño y su hermana enfrentan el racismo en el sur de Estados Unidos.",
+      "urlImage": "https://hispamer.com.ni/wp-content/uploads/2023/02/9780718076375.jpg"
+    },
+    {
+      "book": "Crónica de una muerte anunciada",
+      "author": "Gabriel García Márquez",
+      "gender": "Novela",
+      "publishDate": 1981,
+      "description": "La historia de un asesinato anunciado en un pequeño pueblo.",
+      "urlImage": "https://hispamer.com.ni/wp-content/uploads/2022/06/9786070729560.jpg"
+    },
+    {
+      "id": "8",
+      "book": "Las aventuras de Sherlock Holmes",
+      "author": "Arthur Conan Doyle",
+      "gender": "Misterio",
+      "publishDate": 1892,
+      "description": "El famoso detective resuelve varios casos intrigantes.",
+      "urlImage": "https://hispamer.com.ni/wp-content/uploads/2022/06/9788415618829.jpg"
+    },
+    {
+      "id": "9",
+      "book": "El principito",
+      "author": "Antoine de Saint-Exupéry",
+      "gender": "Fábula",
+      "publishDate": 1943,
+      "description": "El encuentro de un piloto con un pequeño príncipe de otro planeta.",
+      "urlImage": "https://upload.wikimedia.org/wikipedia/commons/1/1c/El_principito.jpg"
+    }
+  ]
+  

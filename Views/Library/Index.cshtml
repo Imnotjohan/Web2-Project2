@@ -1,0 +1,34 @@
+@model List<practica2.Models.Books>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="container mt-5">
+    <h1>Library</h1>
+    <hr />
+
+    <form class="mb-3" method="POST" action="/Library/Find">
+        <div class="input-group">
+            <input type="text" name="book" class="form-control" placeholder="Findy by title...">
+            <button type="submit" class="btn btn-primary">Find</button>
+        </div>
+    </form>
+
+    <div class="row">
+        @foreach (var item in Model)
+        {
+            <div class="col-md-4 mb-4">
+                <div class="card">
+                    <img src="@item.urlImage" class="card-img-top" alt="@item.book"
+                        style="height: 300px; object-fit: cover;">
+                    <div class="card-body">
+                        <h5 class="card-title">@item.book</h5>
+                        <p class="card-text">@item.author</p>
+                        <a href="/Library/Details/@item.id" class="btn btn-primary">See more</a>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
